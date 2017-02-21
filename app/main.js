@@ -1,8 +1,9 @@
 /**
- * Created by zeng on 2016/5/9.
+ * Created by Geweidong on 2017/2/21.
  */
-let React = require('react');
-let ReactDOM = require('react-dom');
-// let AppComponent = require('./components/productBox.js');
+import React from 'react';
+import ReactDOM from 'react-dom';
 import AppComponent from './components/productBox.js';
+
+
 ReactDOM.render(<AppComponent />, document.getElementById('content'));
