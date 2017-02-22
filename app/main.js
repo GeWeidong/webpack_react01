@@ -7,3 +7,6 @@ import AppComponent from './components/productBox.js';
 
 
 ReactDOM.render(<AppComponent />, document.getElementById('content'));
+
+
+//时代发生地方
