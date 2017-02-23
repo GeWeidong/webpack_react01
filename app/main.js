@@ -18,7 +18,7 @@ ReactDOM.render(
     document.getElementById('content')
 );
 
-// path: 代表用户访问的路径sdfsdf
+// path: 代表用户访问的路径
 // component: 用户访问这个路径的时候，页面将会导向哪里？这里的目的地址就是React的一个组件
 
 
