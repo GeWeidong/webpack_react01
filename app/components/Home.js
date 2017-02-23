@@ -9,11 +9,11 @@ class Home extends React.Component {
 		return (
 			<div>
 				<h1>React-router</h1>
-				<ul>
-					<li>
-						<Link to="/locations">名胜古迹</Link>
-					</li>
-				</ul>
+				<nav>
+		            <Link to="/locations">名胜古迹</Link> |
+		            <Link to="/about">关于techgogogo</Link>
+		            {this.props.children}
+		        </nav>
 			</div>
 		)
 	}
