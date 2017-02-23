@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './components/productBox.js';
+import Home from './components/Home.js';
 import Locations from './components/Locations.js';
 
 import {Router,Route,browserHistory} from 'react-router';

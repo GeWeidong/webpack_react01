@@ -6,7 +6,7 @@ import React from 'react';
 class ProductBox extends React.Component {
 	render(){
 		return (
-			<div className="">hello react&es2015&webpack!</div>
+			<div className="">hello react&es201sss5&webpack!</div>
 		)
 	}
 };
